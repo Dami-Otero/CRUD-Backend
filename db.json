@@ -1,28 +1,13 @@
 {
   "employee": [
     {
-      "id": "585f",
+      "id": "8fcb",
       "name": "Damian Otero",
       "email": "damiango.lucas@gmail.com",
       "mobile": "9148260555",
-      "dob": "2024-04-30",
-      "doj": "2024-05-08"
-    },
-    {
-      "id": "2d3c",
-      "name": "John Djorup",
-      "email": "sportydude13@gmail.com",
-      "mobile": "2323414",
-      "dob": "2024-05-02",
-      "doj": "2024-05-28"
-    },
-    {
-      "id": "ce32",
-      "name": "Steven",
-      "email": "sportydude1@gmail.com",
-      "mobile": "222222",
-      "dob": "2024-05-01",
-      "doj": "2024-05-23"
+      "dob": "2024-05-28",
+      "doj": "2024-06-27",
+      "salary": 30
     }
   ]
 }
