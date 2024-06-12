@@ -27,5 +27,27 @@
       "doj": "2024-06-28",
       "salary": 1
     }
+  ],
+  "income":[
+    {
+      "id":1,
+      "company":"company name",
+      "invoce_number":"5252-yy-77",
+      "invoce_date":"2024-05-28",
+      "amount":1000.00,
+      "due_date":"2024-05-28",
+      "is_paid": true
+    }
+  ],
+  "outcome":[
+    {
+      "id":1,
+      "company":"company name",
+      "invoce_number":"5252-yy-77",
+      "invoce_date":"2024-05-28",
+      "amount":1000.00,
+      "due_date":"2024-05-28",
+      "is_paid": true
+    }
   ]
 }
