@@ -27,5 +27,67 @@
       "doj": "2024-06-28",
       "salary": 1
     }
+  ],
+  "income": [
+    {
+      "id": 1,
+      "company": "company name",
+      "invoce_number": "5252-yy-77",
+      "invoce_date": "2024-05-28",
+      "amount": 1000,
+      "due_date": "2024-05-28",
+      "is_paid": true
+    },
+    {
+      "id": 0,
+      "company": "Steam",
+      "invoce_number": 4,
+      "amount": 6,
+      "due_date": "2024-05-29",
+      "is_paid": "true"
+    },
+    {
+      "id": 0,
+      "company": "Ster",
+      "invoce_number": 4,
+      "amount": 5,
+      "due_date": "2024-06-14",
+      "is_paid": "false"
+    }
+  ],
+  "outcome": [
+    {
+      "id": 1,
+      "company": "company name",
+      "invoce_number": "5252-yy-77",
+      "invoce_date": "2024-05-28",
+      "amount": 1000,
+      "due_date": "2024-05-28",
+      "is_paid": true
+    },
+    {
+      "id": 0,
+      "company": "aaa",
+      "invoice_number": 3,
+      "amount": 5,
+      "due_date": "2024-06-12",
+      "is_paid": "false"
+    },
+    {
+      "id": 0,
+      "company": "eee",
+      "invoice_number": 4,
+      "amount": 5,
+      "due_date": "2024-06-26",
+      "is_paid": "false"
+    },
+    {
+      "id": 0,
+      "company": "Steam",
+      "invoice_number": 4,
+      "amount": 5,
+      "due_date": "2024-06-11",
+      "is_paid": "true"
+    }
   ]
 }
