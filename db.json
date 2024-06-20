@@ -30,64 +30,54 @@
   ],
   "income": [
     {
-      "id": 1,
-      "company": "company name",
-      "invoce_number": "5252-yy-77",
-      "invoce_date": "2024-05-28",
-      "amount": 1000,
-      "due_date": "2024-05-28",
-      "is_paid": true
+      "id": "f4b9",
+      "company": "compa",
+      "invoice_number": 222,
+      "amount": 3333,
+      "due_date": "2024-06-06",
+      "is_paid": "false"
     },
     {
-      "id": 0,
-      "company": "Steam",
-      "invoce_number": 4,
-      "amount": 6,
-      "due_date": "2024-05-29",
+      "id": "34c1",
+      "company": "new comp",
+      "invoice_number": 4,
+      "amount": 858,
+      "due_date": "2024-06-10",
       "is_paid": "true"
     },
     {
-      "id": 0,
-      "company": "Ster",
-      "invoce_number": 4,
-      "amount": 5,
-      "due_date": "2024-06-14",
+      "id": "20f8",
+      "company": "co",
+      "invoice_number": "num-234",
+      "amount": 222,
+      "due_date": "2024-06-12",
+      "is_paid": "true"
+    },
+    {
+      "id": "0910",
+      "company": "com",
+      "invoice_number": "num-19",
+      "amount": 222,
+      "due_date": "2024-06-03",
       "is_paid": "false"
     }
   ],
   "outcome": [
     {
-      "id": 1,
-      "company": "company name",
-      "invoce_number": "5252-yy-77",
-      "invoce_date": "2024-05-28",
-      "amount": 1000,
-      "due_date": "2024-05-28",
-      "is_paid": true
-    },
-    {
-      "id": 0,
-      "company": "aaa",
-      "invoice_number": 3,
-      "amount": 5,
+      "id": "2691",
+      "company": "company",
+      "invoice_number": "num-28",
+      "amount": 283,
       "due_date": "2024-06-12",
       "is_paid": "false"
     },
     {
-      "id": 0,
-      "company": "eee",
-      "invoice_number": 4,
-      "amount": 5,
-      "due_date": "2024-06-26",
+      "id": "d40b",
+      "company": "comp",
+      "invoice_number": "num-90",
+      "amount": 443,
+      "due_date": "2024-06-12",
       "is_paid": "false"
-    },
-    {
-      "id": 0,
-      "company": "Steam",
-      "invoice_number": 4,
-      "amount": 5,
-      "due_date": "2024-06-11",
-      "is_paid": "true"
     }
   ]
 }
