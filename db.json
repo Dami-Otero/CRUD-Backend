@@ -60,6 +60,14 @@
       "amount": 222,
       "due_date": "2024-06-03",
       "is_paid": "false"
+    },
+    {
+      "id": "83d0",
+      "company": "new comp",
+      "invoice_number": "num-30",
+      "amount": 444,
+      "due_date": "2024-06-12",
+      "is_paid": "false"
     }
   ],
   "outcome": [
@@ -78,6 +86,14 @@
       "amount": 443,
       "due_date": "2024-06-12",
       "is_paid": "false"
+    },
+    {
+      "id": "3863",
+      "company": "company",
+      "invoice_number": "num-30",
+      "amount": 333,
+      "due_date": "2024-06-12",
+      "is_paid": "true"
     }
   ]
 }
