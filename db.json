@@ -1,206 +1,1606 @@
 {
-  "income": [{"company":"Innotype","invoice_number":"39","invoice_date":"2024-09-19","amount":672,"due_date":"2024-08-12","is_paid":"false"},
-  {"company":"Browsedrive","invoice_number":"52","invoice_date":"2024-08-13","amount":852,"due_date":"2024-07-12","is_paid":"true"},
-  {"company":"Mydeo","invoice_number":"49","invoice_date":"2024-07-24","amount":234,"due_date":"2024-06-15","is_paid":"true"},
-  {"company":"Eare","invoice_number":"62","invoice_date":"2024-06-15","amount":149,"due_date":"2024-01-21","is_paid":"true"},
-  {"company":"Riffwire","invoice_number":"96","invoice_date":"2024-10-19","amount":200,"due_date":"2024-01-21","is_paid":"false"},
-  {"company":"Zooxo","invoice_number":"74","invoice_date":"2024-03-16","amount":59,"due_date":"2024-05-05","is_paid":"false"},
-  {"company":"Aibox","invoice_number":"49","invoice_date":"2024-01-12","amount":652,"due_date":"2024-04-08","is_paid":"false"},
-  {"company":"Voonyx","invoice_number":"96","invoice_date":"2024-11-12","amount":913,"due_date":"2024-12-28","is_paid":"true"},
-  {"company":"Wikizz","invoice_number":"10","invoice_date":"2024-01-16","amount":719,"due_date":"2024-03-08","is_paid":"true"},
-  {"company":"Divape","invoice_number":"17","invoice_date":"2024-05-09","amount":361,"due_date":"2024-03-25","is_paid":"false"},
-  {"company":"Dabshots","invoice_number":"61","invoice_date":"2024-02-23","amount":276,"due_date":"2024-06-02","is_paid":"true"},
-  {"company":"Devcast","invoice_number":"10","invoice_date":"2024-04-27","amount":189,"due_date":"2024-10-15","is_paid":"false"},
-  {"company":"Meemm","invoice_number":"55","invoice_date":"2024-06-26","amount":479,"due_date":"2024-05-16","is_paid":"true"},
-  {"company":"Camimbo","invoice_number":"70","invoice_date":"2024-07-30","amount":152,"due_date":"2024-03-05","is_paid":"false"},
-  {"company":"Buzzdog","invoice_number":"29","invoice_date":"2024-07-26","amount":360,"due_date":"2024-04-22","is_paid":"true"},
-  {"company":"Eire","invoice_number":"59","invoice_date":"2024-03-28","amount":368,"due_date":"2024-05-04","is_paid":"false"},
-  {"company":"Leenti","invoice_number":"21","invoice_date":"2024-09-22","amount":311,"due_date":"2024-06-07","is_paid":"true"},
-  {"company":"Trilia","invoice_number":"52","invoice_date":"2024-07-27","amount":811,"due_date":"2024-09-18","is_paid":"false"},
-  {"company":"Mydeo","invoice_number":"94","invoice_date":"2024-09-04","amount":789,"due_date":"2024-12-24","is_paid":"false"},
-  {"company":"Viva","invoice_number":"78","invoice_date":"2024-03-31","amount":716,"due_date":"2024-03-06","is_paid":"false"},
-  {"company":"Skaboo","invoice_number":"16","invoice_date":"2024-02-11","amount":593,"due_date":"2024-01-17","is_paid":"true"},
-  {"company":"Wikizz","invoice_number":"81","invoice_date":"2024-04-03","amount":102,"due_date":"2024-07-27","is_paid":"true"},
-  {"company":"Buzzdog","invoice_number":"95","invoice_date":"2024-04-07","amount":290,"due_date":"2024-10-07","is_paid":"true"},
-  {"company":"Plajo","invoice_number":"67","invoice_date":"2024-09-29","amount":969,"due_date":"2024-03-05","is_paid":"false"},
-  {"company":"Jabberstorm","invoice_number":"48","invoice_date":"2024-06-25","amount":913,"due_date":"2024-07-26","is_paid":"true"},
-  {"company":"Divanoodle","invoice_number":"60","invoice_date":"2024-02-28","amount":997,"due_date":"2024-08-19","is_paid":"false"},
-  {"company":"Gabtune","invoice_number":"80","invoice_date":"2024-05-14","amount":533,"due_date":"2024-04-16","is_paid":"false"},
-  {"company":"Devify","invoice_number":"27","invoice_date":"2024-03-14","amount":243,"due_date":"2024-04-12","is_paid":"false"},
-  {"company":"Katz","invoice_number":"60","invoice_date":"2024-02-22","amount":747,"due_date":"2024-02-19","is_paid":"true"},
-  {"company":"Myworks","invoice_number":"57","invoice_date":"2024-06-27","amount":600,"due_date":"2024-09-24","is_paid":"true"},
-  {"company":"Skinix","invoice_number":"83","invoice_date":"2024-05-30","amount":338,"due_date":"2024-03-15","is_paid":"false"},
-  {"company":"Yacero","invoice_number":"1","invoice_date":"2024-03-18","amount":712,"due_date":"2024-08-13","is_paid":"false"},
-  {"company":"Browsezoom","invoice_number":"93","invoice_date":"2024-04-30","amount":819,"due_date":"2024-01-16","is_paid":"true"},
-  {"company":"Skyvu","invoice_number":"29","invoice_date":"2024-10-12","amount":813,"due_date":"2024-08-09","is_paid":"false"},
-  {"company":"Podcat","invoice_number":"13","invoice_date":"2024-09-24","amount":18,"due_date":"2024-06-10","is_paid":"false"},
-  {"company":"Skipstorm","invoice_number":"20","invoice_date":"2024-05-11","amount":31,"due_date":"2024-05-27","is_paid":"true"},
-  {"company":"Aivee","invoice_number":"78","invoice_date":"2024-11-11","amount":237,"due_date":"2024-01-26","is_paid":"true"},
-  {"company":"Yambee","invoice_number":"28","invoice_date":"2024-08-10","amount":471,"due_date":"2024-07-31","is_paid":"false"},
-  {"company":"Topicware","invoice_number":"67","invoice_date":"2024-10-01","amount":916,"due_date":"2024-03-17","is_paid":"true"},
-  {"company":"Zava","invoice_number":"18","invoice_date":"2024-10-23","amount":140,"due_date":"2024-11-12","is_paid":"true"},
-  {"company":"Yodo","invoice_number":"47","invoice_date":"2024-04-11","amount":475,"due_date":"2024-06-25","is_paid":"false"},
-  {"company":"Latz","invoice_number":"70","invoice_date":"2024-08-05","amount":329,"due_date":"2024-03-20","is_paid":"true"},
-  {"company":"Browsedrive","invoice_number":"77","invoice_date":"2024-01-13","amount":435,"due_date":"2024-12-24","is_paid":"false"},
-  {"company":"Topicshots","invoice_number":"39","invoice_date":"2024-01-02","amount":343,"due_date":"2024-04-10","is_paid":"false"},
-  {"company":"Photobug","invoice_number":"49","invoice_date":"2024-10-23","amount":780,"due_date":"2024-03-16","is_paid":"true"},
-  {"company":"Dabfeed","invoice_number":"34","invoice_date":"2024-06-13","amount":646,"due_date":"2024-10-08","is_paid":"true"},
-  {"company":"Shuffledrive","invoice_number":"74","invoice_date":"2024-05-14","amount":741,"due_date":"2024-09-06","is_paid":"true"},
-  {"company":"Flashdog","invoice_number":"56","invoice_date":"2024-08-14","amount":380,"due_date":"2024-03-17","is_paid":"true"},
-  {"company":"Eabox","invoice_number":"34","invoice_date":"2024-08-20","amount":27,"due_date":"2024-12-06","is_paid":"true"},
-  {"company":"Oodoo","invoice_number":"36","invoice_date":"2024-11-09","amount":796,"due_date":"2024-11-23","is_paid":"true"},
-  {"company":"Yodoo","invoice_number":"29","invoice_date":"2024-05-25","amount":183,"due_date":"2024-11-19","is_paid":"false"},
-  {"company":"Bubblemix","invoice_number":"19","invoice_date":"2024-01-09","amount":852,"due_date":"2024-12-26","is_paid":"false"},
-  {"company":"Eidel","invoice_number":"46","invoice_date":"2024-12-02","amount":714,"due_date":"2024-08-07","is_paid":"false"},
-  {"company":"Ozu","invoice_number":"72","invoice_date":"2024-04-21","amount":326,"due_date":"2024-10-30","is_paid":"true"},
-  {"company":"Jaxbean","invoice_number":"100","invoice_date":"2024-03-30","amount":211,"due_date":"2024-09-25","is_paid":"false"},
-  {"company":"Zoonoodle","invoice_number":"95","invoice_date":"2024-05-24","amount":880,"due_date":"2024-07-23","is_paid":"false"},
-  {"company":"Skinix","invoice_number":"83","invoice_date":"2024-01-31","amount":818,"due_date":"2024-11-10","is_paid":"false"},
-  {"company":"Dablist","invoice_number":"42","invoice_date":"2024-08-11","amount":504,"due_date":"2024-01-08","is_paid":"true"},
-  {"company":"Dabjam","invoice_number":"27","invoice_date":"2024-08-16","amount":284,"due_date":"2024-05-05","is_paid":"true"},
-  {"company":"Izio","invoice_number":"57","invoice_date":"2024-06-11","amount":995,"due_date":"2024-08-07","is_paid":"false"},
-  {"company":"Trilith","invoice_number":"2","invoice_date":"2024-05-22","amount":978,"due_date":"2024-07-20","is_paid":"true"},
-  {"company":"Quaxo","invoice_number":"30","invoice_date":"2024-01-08","amount":375,"due_date":"2024-09-22","is_paid":"false"},
-  {"company":"Devpulse","invoice_number":"47","invoice_date":"2024-07-03","amount":744,"due_date":"2024-01-08","is_paid":"true"},
-  {"company":"Yodel","invoice_number":"48","invoice_date":"2024-06-16","amount":894,"due_date":"2024-08-07","is_paid":"true"},
-  {"company":"Oyoloo","invoice_number":"83","invoice_date":"2024-12-03","amount":790,"due_date":"2024-09-07","is_paid":"true"},
-  {"company":"Brightdog","invoice_number":"93","invoice_date":"2024-07-12","amount":302,"due_date":"2024-12-06","is_paid":"true"},
-  {"company":"Eabox","invoice_number":"54","invoice_date":"2024-10-23","amount":41,"due_date":"2024-09-26","is_paid":"false"},
-  {"company":"Lazzy","invoice_number":"19","invoice_date":"2024-07-01","amount":409,"due_date":"2024-06-03","is_paid":"true"},
-  {"company":"Feedfire","invoice_number":"44","invoice_date":"2024-03-25","amount":790,"due_date":"2024-09-09","is_paid":"true"},
-  {"company":"Aimbo","invoice_number":"2","invoice_date":"2024-08-20","amount":519,"due_date":"2024-07-03","is_paid":"true"},
-  {"company":"Twinte","invoice_number":"96","invoice_date":"2024-07-11","amount":334,"due_date":"2024-11-23","is_paid":"false"},
-  {"company":"Jetpulse","invoice_number":"38","invoice_date":"2024-04-20","amount":1,"due_date":"2024-02-26","is_paid":"true"},
-  {"company":"Abatz","invoice_number":"51","invoice_date":"2024-01-16","amount":971,"due_date":"2024-07-08","is_paid":"false"},
-  {"company":"Skimia","invoice_number":"61","invoice_date":"2024-08-01","amount":557,"due_date":"2024-04-30","is_paid":"false"},
-  {"company":"Jayo","invoice_number":"75","invoice_date":"2024-05-25","amount":580,"due_date":"2024-09-23","is_paid":"false"},
-  {"company":"Gabvine","invoice_number":"2","invoice_date":"2024-09-24","amount":789,"due_date":"2024-06-13","is_paid":"false"},
-  {"company":"Ainyx","invoice_number":"26","invoice_date":"2024-12-14","amount":318,"due_date":"2024-08-16","is_paid":"true"},
-  {"company":"Dazzlesphere","invoice_number":"67","invoice_date":"2024-10-30","amount":865,"due_date":"2024-07-13","is_paid":"false"},
-  {"company":"Jaxspan","invoice_number":"20","invoice_date":"2024-02-08","amount":520,"due_date":"2024-06-14","is_paid":"false"},
-  {"company":"Ntags","invoice_number":"66","invoice_date":"2024-03-24","amount":377,"due_date":"2024-08-04","is_paid":"false"},
-  {"company":"Yoveo","invoice_number":"42","invoice_date":"2024-02-11","amount":539,"due_date":"2024-05-05","is_paid":"true"},
-  {"company":"Edgeify","invoice_number":"64","invoice_date":"2024-02-22","amount":496,"due_date":"2024-01-20","is_paid":"true"},
-  {"company":"Flashpoint","invoice_number":"19","invoice_date":"2024-04-30","amount":761,"due_date":"2024-08-22","is_paid":"false"},
-  {"company":"Tagtune","invoice_number":"96","invoice_date":"2024-10-17","amount":564,"due_date":"2024-12-21","is_paid":"true"},
-  {"company":"Gigazoom","invoice_number":"98","invoice_date":"2024-04-03","amount":173,"due_date":"2024-04-22","is_paid":"false"},
-  {"company":"Plambee","invoice_number":"15","invoice_date":"2024-06-15","amount":231,"due_date":"2024-02-28","is_paid":"true"},
-  {"company":"Jetpulse","invoice_number":"48","invoice_date":"2024-06-09","amount":501,"due_date":"2024-06-11","is_paid":"true"},
-  {"company":"Gabcube","invoice_number":"6","invoice_date":"2024-05-16","amount":912,"due_date":"2024-08-12","is_paid":"true"},
-  {"company":"Ozu","invoice_number":"74","invoice_date":"2024-02-07","amount":361,"due_date":"2024-11-28","is_paid":"false"},
-  {"company":"Myworks","invoice_number":"73","invoice_date":"2024-01-13","amount":860,"due_date":"2024-05-20","is_paid":"false"},
-  {"company":"Aivee","invoice_number":"26","invoice_date":"2024-05-03","amount":826,"due_date":"2024-03-09","is_paid":"false"},
-  {"company":"Livetube","invoice_number":"87","invoice_date":"2024-07-31","amount":88,"due_date":"2024-10-21","is_paid":"false"},
-  {"company":"Eayo","invoice_number":"16","invoice_date":"2024-12-16","amount":223,"due_date":"2024-07-25","is_paid":"true"},
-  {"company":"Ntag","invoice_number":"82","invoice_date":"2024-09-07","amount":331,"due_date":"2024-11-22","is_paid":"true"},
-  {"company":"Yadel","invoice_number":"19","invoice_date":"2024-05-21","amount":220,"due_date":"2024-02-04","is_paid":"false"},
-  {"company":"Shufflester","invoice_number":"20","invoice_date":"2024-03-13","amount":732,"due_date":"2024-04-14","is_paid":"true"},
-  {"company":"Zoozzy","invoice_number":"8","invoice_date":"2024-10-17","amount":572,"due_date":"2024-05-01","is_paid":"false"},
-  {"company":"Devcast","invoice_number":"15","invoice_date":"2024-03-03","amount":199,"due_date":"2024-01-31","is_paid":"true"},
-  {"company":"Abatz","invoice_number":"87","invoice_date":"2024-09-16","amount":596,"due_date":"2024-10-07","is_paid":"true"},
-  {"company":"Zazio","invoice_number":"40","invoice_date":"2024-06-25","amount":101,"due_date":"2024-11-12","is_paid":"false"}],
-
-
-  "outcome": [{"company":"Talane","invoice_number":"98","invoice_date":"2024-08-08","amount":68,"due_date":"2024-09-16","is_paid":"true"},
-  {"company":"Quimm","invoice_number":"30","invoice_date":"2024-10-24","amount":63,"due_date":"2024-03-09","is_paid":"true"},
-  {"company":"Edgepulse","invoice_number":"100","invoice_date":"2024-02-05","amount":997,"due_date":"2024-07-16","is_paid":"false"},
-  {"company":"Kazu","invoice_number":"7","invoice_date":"2024-11-03","amount":533,"due_date":"2024-01-14","is_paid":"true"},
-  {"company":"Cogibox","invoice_number":"67","invoice_date":"2024-10-04","amount":166,"due_date":"2024-05-04","is_paid":"false"},
-  {"company":"Divavu","invoice_number":"37","invoice_date":"2024-10-27","amount":228,"due_date":"2024-06-16","is_paid":"true"},
-  {"company":"Oyope","invoice_number":"48","invoice_date":"2024-08-05","amount":361,"due_date":"2024-05-15","is_paid":"false"},
-  {"company":"Ainyx","invoice_number":"85","invoice_date":"2024-08-04","amount":652,"due_date":"2024-07-27","is_paid":"true"},
-  {"company":"Yodo","invoice_number":"76","invoice_date":"2024-03-06","amount":633,"due_date":"2024-07-30","is_paid":"true"},
-  {"company":"Gigabox","invoice_number":"49","invoice_date":"2024-11-06","amount":417,"due_date":"2024-09-18","is_paid":"false"},
-  {"company":"Jaxworks","invoice_number":"49","invoice_date":"2024-08-21","amount":391,"due_date":"2024-06-07","is_paid":"true"},
-  {"company":"Yakidoo","invoice_number":"52","invoice_date":"2024-05-22","amount":573,"due_date":"2024-12-30","is_paid":"false"},
-  {"company":"Mybuzz","invoice_number":"87","invoice_date":"2024-02-20","amount":470,"due_date":"2024-12-03","is_paid":"false"},
-  {"company":"Vimbo","invoice_number":"8","invoice_date":"2024-01-11","amount":766,"due_date":"2024-04-27","is_paid":"true"},
-  {"company":"Jaxspan","invoice_number":"47","invoice_date":"2024-11-19","amount":116,"due_date":"2024-05-26","is_paid":"true"},
-  {"company":"Thoughtworks","invoice_number":"31","invoice_date":"2024-05-24","amount":981,"due_date":"2024-12-25","is_paid":"false"},
-  {"company":"Oyope","invoice_number":"68","invoice_date":"2024-02-03","amount":491,"due_date":"2024-01-22","is_paid":"false"},
-  {"company":"Eabox","invoice_number":"59","invoice_date":"2024-07-02","amount":107,"due_date":"2024-09-22","is_paid":"true"},
-  {"company":"Centidel","invoice_number":"26","invoice_date":"2024-02-26","amount":644,"due_date":"2024-07-01","is_paid":"true"},
-  {"company":"Tazzy","invoice_number":"81","invoice_date":"2024-12-21","amount":815,"due_date":"2024-08-20","is_paid":"true"},
-  {"company":"Twitterbeat","invoice_number":"49","invoice_date":"2024-11-25","amount":680,"due_date":"2024-12-26","is_paid":"true"},
-  {"company":"Flashspan","invoice_number":"5","invoice_date":"2024-01-11","amount":496,"due_date":"2024-07-26","is_paid":"false"},
-  {"company":"Wikizz","invoice_number":"65","invoice_date":"2024-08-09","amount":901,"due_date":"2024-02-01","is_paid":"true"},
-  {"company":"Gabcube","invoice_number":"60","invoice_date":"2024-02-01","amount":431,"due_date":"2024-10-03","is_paid":"false"},
-  {"company":"Gigashots","invoice_number":"99","invoice_date":"2024-12-07","amount":325,"due_date":"2024-06-16","is_paid":"false"},
-  {"company":"Yabox","invoice_number":"30","invoice_date":"2024-10-13","amount":393,"due_date":"2024-11-06","is_paid":"true"},
-  {"company":"Leexo","invoice_number":"48","invoice_date":"2024-08-20","amount":156,"due_date":"2024-01-29","is_paid":"true"},
-  {"company":"Riffpedia","invoice_number":"66","invoice_date":"2024-11-29","amount":398,"due_date":"2024-01-05","is_paid":"false"},
-  {"company":"Tagpad","invoice_number":"15","invoice_date":"2024-04-08","amount":685,"due_date":"2024-09-06","is_paid":"true"},
-  {"company":"Twimbo","invoice_number":"61","invoice_date":"2024-11-18","amount":391,"due_date":"2024-03-18","is_paid":"false"},
-  {"company":"Skyble","invoice_number":"27","invoice_date":"2024-12-17","amount":277,"due_date":"2024-12-15","is_paid":"false"},
-  {"company":"Realfire","invoice_number":"6","invoice_date":"2024-12-21","amount":128,"due_date":"2024-11-29","is_paid":"true"},
-  {"company":"Centidel","invoice_number":"73","invoice_date":"2024-12-20","amount":260,"due_date":"2024-08-01","is_paid":"false"},
-  {"company":"Viva","invoice_number":"35","invoice_date":"2024-10-25","amount":228,"due_date":"2024-05-23","is_paid":"false"},
-  {"company":"Jaxnation","invoice_number":"25","invoice_date":"2024-05-26","amount":904,"due_date":"2024-07-13","is_paid":"true"},
-  {"company":"Wordware","invoice_number":"54","invoice_date":"2024-01-01","amount":809,"due_date":"2024-01-12","is_paid":"false"},
-  {"company":"Pixoboo","invoice_number":"62","invoice_date":"2024-07-22","amount":862,"due_date":"2024-04-14","is_paid":"false"},
-  {"company":"Gigazoom","invoice_number":"2","invoice_date":"2024-08-24","amount":916,"due_date":"2024-02-04","is_paid":"false"},
-  {"company":"Oodoo","invoice_number":"85","invoice_date":"2024-08-20","amount":772,"due_date":"2024-06-27","is_paid":"true"},
-  {"company":"Gigaclub","invoice_number":"43","invoice_date":"2024-09-04","amount":337,"due_date":"2024-01-23","is_paid":"true"},
-  {"company":"Feedfish","invoice_number":"24","invoice_date":"2024-08-27","amount":425,"due_date":"2024-10-26","is_paid":"true"},
-  {"company":"Dynabox","invoice_number":"15","invoice_date":"2024-12-27","amount":498,"due_date":"2024-11-27","is_paid":"false"},
-  {"company":"Brainbox","invoice_number":"19","invoice_date":"2024-03-08","amount":992,"due_date":"2024-08-05","is_paid":"false"},
-  {"company":"Brainverse","invoice_number":"40","invoice_date":"2024-01-21","amount":35,"due_date":"2024-11-09","is_paid":"false"},
-  {"company":"Skimia","invoice_number":"12","invoice_date":"2024-07-27","amount":401,"due_date":"2024-03-07","is_paid":"false"},
-  {"company":"Viva","invoice_number":"77","invoice_date":"2024-03-18","amount":821,"due_date":"2024-10-03","is_paid":"true"},
-  {"company":"Yakitri","invoice_number":"12","invoice_date":"2024-03-05","amount":556,"due_date":"2024-08-31","is_paid":"false"},
-  {"company":"Skyvu","invoice_number":"61","invoice_date":"2024-09-09","amount":37,"due_date":"2024-03-26","is_paid":"true"},
-  {"company":"Skivee","invoice_number":"80","invoice_date":"2024-05-02","amount":156,"due_date":"2024-01-29","is_paid":"true"},
-  {"company":"Skiptube","invoice_number":"46","invoice_date":"2024-03-01","amount":506,"due_date":"2024-02-20","is_paid":"false"},
-  {"company":"Skidoo","invoice_number":"33","invoice_date":"2024-04-03","amount":103,"due_date":"2024-06-25","is_paid":"false"},
-  {"company":"Demimbu","invoice_number":"74","invoice_date":"2024-02-29","amount":853,"due_date":"2024-06-19","is_paid":"false"},
-  {"company":"Meevee","invoice_number":"68","invoice_date":"2024-08-09","amount":440,"due_date":"2024-02-21","is_paid":"false"},
-  {"company":"Quinu","invoice_number":"52","invoice_date":"2024-12-16","amount":662,"due_date":"2024-02-29","is_paid":"true"},
-  {"company":"Riffpedia","invoice_number":"47","invoice_date":"2024-10-15","amount":69,"due_date":"2024-10-09","is_paid":"false"},
-  {"company":"Vidoo","invoice_number":"1","invoice_date":"2024-05-04","amount":496,"due_date":"2024-04-02","is_paid":"false"},
-  {"company":"Eazzy","invoice_number":"59","invoice_date":"2024-03-25","amount":732,"due_date":"2024-02-18","is_paid":"true"},
-  {"company":"Digitube","invoice_number":"83","invoice_date":"2024-10-21","amount":129,"due_date":"2024-01-29","is_paid":"true"},
-  {"company":"Topicstorm","invoice_number":"94","invoice_date":"2024-08-12","amount":348,"due_date":"2024-12-21","is_paid":"true"},
-  {"company":"LiveZ","invoice_number":"74","invoice_date":"2024-05-25","amount":507,"due_date":"2024-03-16","is_paid":"false"},
-  {"company":"Linkbridge","invoice_number":"24","invoice_date":"2024-08-04","amount":138,"due_date":"2024-01-26","is_paid":"false"},
-  {"company":"Wordpedia","invoice_number":"71","invoice_date":"2024-05-05","amount":697,"due_date":"2024-08-31","is_paid":"false"},
-  {"company":"Thoughtworks","invoice_number":"18","invoice_date":"2024-11-17","amount":612,"due_date":"2024-06-06","is_paid":"true"},
-  {"company":"Browsedrive","invoice_number":"17","invoice_date":"2024-04-18","amount":835,"due_date":"2024-10-24","is_paid":"false"},
-  {"company":"Nlounge","invoice_number":"15","invoice_date":"2024-04-18","amount":425,"due_date":"2024-10-28","is_paid":"true"},
-  {"company":"Chatterpoint","invoice_number":"53","invoice_date":"2024-10-06","amount":233,"due_date":"2024-11-18","is_paid":"false"},
-  {"company":"Browsebug","invoice_number":"36","invoice_date":"2024-02-26","amount":996,"due_date":"2024-09-20","is_paid":"true"},
-  {"company":"LiveZ","invoice_number":"78","invoice_date":"2024-05-13","amount":178,"due_date":"2024-11-15","is_paid":"false"},
-  {"company":"Fanoodle","invoice_number":"88","invoice_date":"2024-11-02","amount":951,"due_date":"2024-06-05","is_paid":"false"},
-  {"company":"Eire","invoice_number":"64","invoice_date":"2024-04-30","amount":371,"due_date":"2024-10-31","is_paid":"false"},
-  {"company":"Twitterwire","invoice_number":"18","invoice_date":"2024-03-09","amount":89,"due_date":"2024-04-06","is_paid":"true"},
-  {"company":"Plambee","invoice_number":"63","invoice_date":"2024-05-21","amount":851,"due_date":"2024-05-05","is_paid":"true"},
-  {"company":"Lazzy","invoice_number":"9","invoice_date":"2024-08-19","amount":433,"due_date":"2024-01-05","is_paid":"true"},
-  {"company":"Demimbu","invoice_number":"84","invoice_date":"2024-10-09","amount":342,"due_date":"2024-11-29","is_paid":"false"},
-  {"company":"Oyoyo","invoice_number":"35","invoice_date":"2024-05-25","amount":690,"due_date":"2024-10-16","is_paid":"false"},
-  {"company":"Gigashots","invoice_number":"14","invoice_date":"2024-07-09","amount":181,"due_date":"2024-07-01","is_paid":"true"},
-  {"company":"Yakidoo","invoice_number":"82","invoice_date":"2024-03-08","amount":839,"due_date":"2024-05-17","is_paid":"false"},
-  {"company":"Ntag","invoice_number":"68","invoice_date":"2024-05-04","amount":261,"due_date":"2024-07-29","is_paid":"true"},
-  {"company":"Mydeo","invoice_number":"39","invoice_date":"2024-11-17","amount":940,"due_date":"2024-04-26","is_paid":"true"},
-  {"company":"Dynabox","invoice_number":"26","invoice_date":"2024-08-15","amount":865,"due_date":"2024-07-17","is_paid":"true"},
-  {"company":"Skiba","invoice_number":"66","invoice_date":"2024-11-10","amount":1,"due_date":"2024-05-13","is_paid":"false"},
-  {"company":"Quimm","invoice_number":"57","invoice_date":"2024-09-07","amount":67,"due_date":"2024-01-02","is_paid":"false"},
-  {"company":"Twitterbridge","invoice_number":"75","invoice_date":"2024-07-11","amount":686,"due_date":"2024-03-08","is_paid":"false"},
-  {"company":"Bluezoom","invoice_number":"22","invoice_date":"2024-12-10","amount":544,"due_date":"2024-06-29","is_paid":"true"},
-  {"company":"Zoombeat","invoice_number":"8","invoice_date":"2024-08-25","amount":415,"due_date":"2024-12-19","is_paid":"true"},
-  {"company":"Riffpedia","invoice_number":"11","invoice_date":"2024-07-09","amount":70,"due_date":"2024-06-07","is_paid":"false"},
-  {"company":"LiveZ","invoice_number":"2","invoice_date":"2024-01-10","amount":18,"due_date":"2024-04-07","is_paid":"false"},
-  {"company":"Oloo","invoice_number":"97","invoice_date":"2024-07-27","amount":91,"due_date":"2024-07-09","is_paid":"true"},
-  {"company":"Babblestorm","invoice_number":"13","invoice_date":"2024-10-02","amount":404,"due_date":"2024-06-28","is_paid":"false"},
-  {"company":"Gabtune","invoice_number":"35","invoice_date":"2024-01-23","amount":996,"due_date":"2024-04-16","is_paid":"true"},
-  {"company":"Izio","invoice_number":"22","invoice_date":"2024-01-02","amount":242,"due_date":"2024-11-27","is_paid":"false"},
-  {"company":"Cogibox","invoice_number":"92","invoice_date":"2024-10-20","amount":680,"due_date":"2024-12-13","is_paid":"true"},
-  {"company":"Gigaclub","invoice_number":"2","invoice_date":"2024-01-18","amount":330,"due_date":"2024-08-20","is_paid":"true"},
-  {"company":"Thoughtbeat","invoice_number":"41","invoice_date":"2024-07-29","amount":548,"due_date":"2024-09-18","is_paid":"false"},
-  {"company":"Eayo","invoice_number":"2","invoice_date":"2024-05-25","amount":42,"due_date":"2024-07-24","is_paid":"false"},
-  {"company":"Oodoo","invoice_number":"62","invoice_date":"2024-06-19","amount":801,"due_date":"2024-02-23","is_paid":"true"},
-  {"company":"Oyoloo","invoice_number":"19","invoice_date":"2024-09-28","amount":638,"due_date":"2024-09-16","is_paid":"false"},
-  {"company":"Topicstorm","invoice_number":"87","invoice_date":"2024-11-13","amount":996,"due_date":"2024-10-13","is_paid":"false"},
-  {"company":"LiveZ","invoice_number":"82","invoice_date":"2024-02-24","amount":768,"due_date":"2024-05-16","is_paid":"false"},
-  {"company":"Yozio","invoice_number":"68","invoice_date":"2024-10-08","amount":267,"due_date":"2024-10-28","is_paid":"true"}]
-  
-  
+  "income": [
+    {
+      "company": "Innotype",
+      "invoice_number": "39",
+      "invoice_date": "2024-09-19",
+      "amount": 672,
+      "due_date": "2024-08-12",
+      "is_paid": "false"
+    },
+    {
+      "company": "Browsedrive",
+      "invoice_number": "52",
+      "invoice_date": "2024-08-13",
+      "amount": 852,
+      "due_date": "2024-07-12",
+      "is_paid": "true"
+    },
+    {
+      "company": "Mydeo",
+      "invoice_number": "49",
+      "invoice_date": "2024-07-24",
+      "amount": 234,
+      "due_date": "2024-06-15",
+      "is_paid": "true"
+    },
+    {
+      "company": "Eare",
+      "invoice_number": "62",
+      "invoice_date": "2024-06-15",
+      "amount": 149,
+      "due_date": "2024-01-21",
+      "is_paid": "true"
+    },
+    {
+      "company": "Riffwire",
+      "invoice_number": "96",
+      "invoice_date": "2024-10-19",
+      "amount": 200,
+      "due_date": "2024-01-21",
+      "is_paid": "false"
+    },
+    {
+      "company": "Zooxo",
+      "invoice_number": "74",
+      "invoice_date": "2024-03-16",
+      "amount": 59,
+      "due_date": "2024-05-05",
+      "is_paid": "false"
+    },
+    {
+      "company": "Aibox",
+      "invoice_number": "49",
+      "invoice_date": "2024-01-12",
+      "amount": 652,
+      "due_date": "2024-04-08",
+      "is_paid": "false"
+    },
+    {
+      "company": "Voonyx",
+      "invoice_number": "96",
+      "invoice_date": "2024-11-12",
+      "amount": 913,
+      "due_date": "2024-12-28",
+      "is_paid": "true"
+    },
+    {
+      "company": "Wikizz",
+      "invoice_number": "10",
+      "invoice_date": "2024-01-16",
+      "amount": 719,
+      "due_date": "2024-03-08",
+      "is_paid": "true"
+    },
+    {
+      "company": "Divape",
+      "invoice_number": "17",
+      "invoice_date": "2024-05-09",
+      "amount": 361,
+      "due_date": "2024-03-25",
+      "is_paid": "false"
+    },
+    {
+      "company": "Dabshots",
+      "invoice_number": "61",
+      "invoice_date": "2024-02-23",
+      "amount": 276,
+      "due_date": "2024-06-02",
+      "is_paid": "true"
+    },
+    {
+      "company": "Devcast",
+      "invoice_number": "10",
+      "invoice_date": "2024-04-27",
+      "amount": 189,
+      "due_date": "2024-10-15",
+      "is_paid": "false"
+    },
+    {
+      "company": "Meemm",
+      "invoice_number": "55",
+      "invoice_date": "2024-06-26",
+      "amount": 479,
+      "due_date": "2024-05-16",
+      "is_paid": "true"
+    },
+    {
+      "company": "Camimbo",
+      "invoice_number": "70",
+      "invoice_date": "2024-07-30",
+      "amount": 152,
+      "due_date": "2024-03-05",
+      "is_paid": "false"
+    },
+    {
+      "company": "Buzzdog",
+      "invoice_number": "29",
+      "invoice_date": "2024-07-26",
+      "amount": 360,
+      "due_date": "2024-04-22",
+      "is_paid": "true"
+    },
+    {
+      "company": "Eire",
+      "invoice_number": "59",
+      "invoice_date": "2024-03-28",
+      "amount": 368,
+      "due_date": "2024-05-04",
+      "is_paid": "false"
+    },
+    {
+      "company": "Leenti",
+      "invoice_number": "21",
+      "invoice_date": "2024-09-22",
+      "amount": 311,
+      "due_date": "2024-06-07",
+      "is_paid": "true"
+    },
+    {
+      "company": "Trilia",
+      "invoice_number": "52",
+      "invoice_date": "2024-07-27",
+      "amount": 811,
+      "due_date": "2024-09-18",
+      "is_paid": "false"
+    },
+    {
+      "company": "Mydeo",
+      "invoice_number": "94",
+      "invoice_date": "2024-09-04",
+      "amount": 789,
+      "due_date": "2024-12-24",
+      "is_paid": "false"
+    },
+    {
+      "company": "Viva",
+      "invoice_number": "78",
+      "invoice_date": "2024-03-31",
+      "amount": 716,
+      "due_date": "2024-03-06",
+      "is_paid": "false"
+    },
+    {
+      "company": "Skaboo",
+      "invoice_number": "16",
+      "invoice_date": "2024-02-11",
+      "amount": 593,
+      "due_date": "2024-01-17",
+      "is_paid": "true"
+    },
+    {
+      "company": "Wikizz",
+      "invoice_number": "81",
+      "invoice_date": "2024-04-03",
+      "amount": 102,
+      "due_date": "2024-07-27",
+      "is_paid": "true"
+    },
+    {
+      "company": "Buzzdog",
+      "invoice_number": "95",
+      "invoice_date": "2024-04-07",
+      "amount": 290,
+      "due_date": "2024-10-07",
+      "is_paid": "true"
+    },
+    {
+      "company": "Plajo",
+      "invoice_number": "67",
+      "invoice_date": "2024-09-29",
+      "amount": 969,
+      "due_date": "2024-03-05",
+      "is_paid": "false"
+    },
+    {
+      "company": "Jabberstorm",
+      "invoice_number": "48",
+      "invoice_date": "2024-06-25",
+      "amount": 913,
+      "due_date": "2024-07-26",
+      "is_paid": "true"
+    },
+    {
+      "company": "Divanoodle",
+      "invoice_number": "60",
+      "invoice_date": "2024-02-28",
+      "amount": 997,
+      "due_date": "2024-08-19",
+      "is_paid": "false"
+    },
+    {
+      "company": "Gabtune",
+      "invoice_number": "80",
+      "invoice_date": "2024-05-14",
+      "amount": 533,
+      "due_date": "2024-04-16",
+      "is_paid": "false"
+    },
+    {
+      "company": "Devify",
+      "invoice_number": "27",
+      "invoice_date": "2024-03-14",
+      "amount": 243,
+      "due_date": "2024-04-12",
+      "is_paid": "false"
+    },
+    {
+      "company": "Katz",
+      "invoice_number": "60",
+      "invoice_date": "2024-02-22",
+      "amount": 747,
+      "due_date": "2024-02-19",
+      "is_paid": "true"
+    },
+    {
+      "company": "Myworks",
+      "invoice_number": "57",
+      "invoice_date": "2024-06-27",
+      "amount": 600,
+      "due_date": "2024-09-24",
+      "is_paid": "true"
+    },
+    {
+      "company": "Skinix",
+      "invoice_number": "83",
+      "invoice_date": "2024-05-30",
+      "amount": 338,
+      "due_date": "2024-03-15",
+      "is_paid": "false"
+    },
+    {
+      "company": "Yacero",
+      "invoice_number": "1",
+      "invoice_date": "2024-03-18",
+      "amount": 712,
+      "due_date": "2024-08-13",
+      "is_paid": "false"
+    },
+    {
+      "company": "Browsezoom",
+      "invoice_number": "93",
+      "invoice_date": "2024-04-30",
+      "amount": 819,
+      "due_date": "2024-01-16",
+      "is_paid": "true"
+    },
+    {
+      "company": "Skyvu",
+      "invoice_number": "29",
+      "invoice_date": "2024-10-12",
+      "amount": 813,
+      "due_date": "2024-08-09",
+      "is_paid": "false"
+    },
+    {
+      "company": "Podcat",
+      "invoice_number": "13",
+      "invoice_date": "2024-09-24",
+      "amount": 18,
+      "due_date": "2024-06-10",
+      "is_paid": "false"
+    },
+    {
+      "company": "Skipstorm",
+      "invoice_number": "20",
+      "invoice_date": "2024-05-11",
+      "amount": 31,
+      "due_date": "2024-05-27",
+      "is_paid": "true"
+    },
+    {
+      "company": "Aivee",
+      "invoice_number": "78",
+      "invoice_date": "2024-11-11",
+      "amount": 983,
+      "due_date": "2024-01-26",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yambee",
+      "invoice_number": "28",
+      "invoice_date": "2024-08-10",
+      "amount": 471,
+      "due_date": "2024-07-31",
+      "is_paid": "false"
+    },
+    {
+      "company": "Topicware",
+      "invoice_number": "67",
+      "invoice_date": "2024-10-01",
+      "amount": 916,
+      "due_date": "2024-03-17",
+      "is_paid": "true"
+    },
+    {
+      "company": "Zava",
+      "invoice_number": "18",
+      "invoice_date": "2024-10-23",
+      "amount": 659,
+      "due_date": "2024-11-12",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yodo",
+      "invoice_number": "47",
+      "invoice_date": "2024-04-11",
+      "amount": 475,
+      "due_date": "2024-06-25",
+      "is_paid": "false"
+    },
+    {
+      "company": "Latz",
+      "invoice_number": "70",
+      "invoice_date": "2024-08-05",
+      "amount": 329,
+      "due_date": "2024-03-20",
+      "is_paid": "true"
+    },
+    {
+      "company": "Browsedrive",
+      "invoice_number": "77",
+      "invoice_date": "2024-01-13",
+      "amount": 435,
+      "due_date": "2024-12-24",
+      "is_paid": "false"
+    },
+    {
+      "company": "Topicshots",
+      "invoice_number": "39",
+      "invoice_date": "2024-01-02",
+      "amount": 343,
+      "due_date": "2024-04-10",
+      "is_paid": "false"
+    },
+    {
+      "company": "Photobug",
+      "invoice_number": "49",
+      "invoice_date": "2024-10-23",
+      "amount": 780,
+      "due_date": "2024-03-16",
+      "is_paid": "true"
+    },
+    {
+      "company": "Dabfeed",
+      "invoice_number": "34",
+      "invoice_date": "2024-06-13",
+      "amount": 646,
+      "due_date": "2024-10-08",
+      "is_paid": "true"
+    },
+    {
+      "company": "Shuffledrive",
+      "invoice_number": "74",
+      "invoice_date": "2024-05-14",
+      "amount": 741,
+      "due_date": "2024-09-06",
+      "is_paid": "true"
+    },
+    {
+      "company": "Flashdog",
+      "invoice_number": "56",
+      "invoice_date": "2024-08-14",
+      "amount": 380,
+      "due_date": "2024-03-17",
+      "is_paid": "true"
+    },
+    {
+      "company": "Eabox",
+      "invoice_number": "34",
+      "invoice_date": "2024-08-20",
+      "amount": 27,
+      "due_date": "2024-12-06",
+      "is_paid": "true"
+    },
+    {
+      "company": "Oodoo",
+      "invoice_number": "36",
+      "invoice_date": "2024-11-09",
+      "amount": 796,
+      "due_date": "2024-11-23",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yodoo",
+      "invoice_number": "29",
+      "invoice_date": "2024-05-25",
+      "amount": 183,
+      "due_date": "2024-11-19",
+      "is_paid": "false"
+    },
+    {
+      "company": "Bubblemix",
+      "invoice_number": "19",
+      "invoice_date": "2024-01-09",
+      "amount": 852,
+      "due_date": "2024-12-26",
+      "is_paid": "false"
+    },
+    {
+      "company": "Eidel",
+      "invoice_number": "46",
+      "invoice_date": "2024-12-02",
+      "amount": 714,
+      "due_date": "2024-08-07",
+      "is_paid": "false"
+    },
+    {
+      "company": "Ozu",
+      "invoice_number": "72",
+      "invoice_date": "2024-04-21",
+      "amount": 326,
+      "due_date": "2024-10-30",
+      "is_paid": "true"
+    },
+    {
+      "company": "Jaxbean",
+      "invoice_number": "100",
+      "invoice_date": "2024-03-30",
+      "amount": 211,
+      "due_date": "2024-09-25",
+      "is_paid": "false"
+    },
+    {
+      "company": "Zoonoodle",
+      "invoice_number": "95",
+      "invoice_date": "2024-05-24",
+      "amount": 880,
+      "due_date": "2024-07-23",
+      "is_paid": "false"
+    },
+    {
+      "company": "Skinix",
+      "invoice_number": "83",
+      "invoice_date": "2024-01-31",
+      "amount": 818,
+      "due_date": "2024-11-10",
+      "is_paid": "false"
+    },
+    {
+      "company": "Dablist",
+      "invoice_number": "42",
+      "invoice_date": "2024-08-11",
+      "amount": 504,
+      "due_date": "2024-01-08",
+      "is_paid": "true"
+    },
+    {
+      "company": "Dabjam",
+      "invoice_number": "27",
+      "invoice_date": "2024-08-16",
+      "amount": 284,
+      "due_date": "2024-05-05",
+      "is_paid": "true"
+    },
+    {
+      "company": "Izio",
+      "invoice_number": "57",
+      "invoice_date": "2024-06-11",
+      "amount": 995,
+      "due_date": "2024-08-07",
+      "is_paid": "false"
+    },
+    {
+      "company": "Trilith",
+      "invoice_number": "2",
+      "invoice_date": "2024-05-22",
+      "amount": 978,
+      "due_date": "2024-07-20",
+      "is_paid": "true"
+    },
+    {
+      "company": "Quaxo",
+      "invoice_number": "30",
+      "invoice_date": "2024-01-08",
+      "amount": 375,
+      "due_date": "2024-09-22",
+      "is_paid": "false"
+    },
+    {
+      "company": "Devpulse",
+      "invoice_number": "47",
+      "invoice_date": "2024-07-03",
+      "amount": 744,
+      "due_date": "2024-01-08",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yodel",
+      "invoice_number": "48",
+      "invoice_date": "2024-06-16",
+      "amount": 894,
+      "due_date": "2024-08-07",
+      "is_paid": "true"
+    },
+    {
+      "company": "Oyoloo",
+      "invoice_number": "83",
+      "invoice_date": "2024-12-03",
+      "amount": 790,
+      "due_date": "2024-09-07",
+      "is_paid": "true"
+    },
+    {
+      "company": "Brightdog",
+      "invoice_number": "93",
+      "invoice_date": "2024-07-12",
+      "amount": 302,
+      "due_date": "2024-12-06",
+      "is_paid": "true"
+    },
+    {
+      "company": "Eabox",
+      "invoice_number": "54",
+      "invoice_date": "2024-10-23",
+      "amount": 41,
+      "due_date": "2024-09-26",
+      "is_paid": "false"
+    },
+    {
+      "company": "Lazzy",
+      "invoice_number": "19",
+      "invoice_date": "2024-07-01",
+      "amount": 409,
+      "due_date": "2024-06-03",
+      "is_paid": "true"
+    },
+    {
+      "company": "Feedfire",
+      "invoice_number": "44",
+      "invoice_date": "2024-03-25",
+      "amount": 790,
+      "due_date": "2024-09-09",
+      "is_paid": "true"
+    },
+    {
+      "company": "Aimbo",
+      "invoice_number": "2",
+      "invoice_date": "2024-08-20",
+      "amount": 519,
+      "due_date": "2024-07-03",
+      "is_paid": "true"
+    },
+    {
+      "company": "Twinte",
+      "invoice_number": "96",
+      "invoice_date": "2024-07-11",
+      "amount": 334,
+      "due_date": "2024-11-23",
+      "is_paid": "false"
+    },
+    {
+      "company": "Jetpulse",
+      "invoice_number": "38",
+      "invoice_date": "2024-04-20",
+      "amount": 1,
+      "due_date": "2024-02-26",
+      "is_paid": "true"
+    },
+    {
+      "company": "Abatz",
+      "invoice_number": "51",
+      "invoice_date": "2024-01-16",
+      "amount": 971,
+      "due_date": "2024-07-08",
+      "is_paid": "false"
+    },
+    {
+      "company": "Skimia",
+      "invoice_number": "61",
+      "invoice_date": "2024-08-01",
+      "amount": 557,
+      "due_date": "2024-04-30",
+      "is_paid": "false"
+    },
+    {
+      "company": "Jayo",
+      "invoice_number": "75",
+      "invoice_date": "2024-05-25",
+      "amount": 580,
+      "due_date": "2024-09-23",
+      "is_paid": "false"
+    },
+    {
+      "company": "Gabvine",
+      "invoice_number": "2",
+      "invoice_date": "2024-09-24",
+      "amount": 789,
+      "due_date": "2024-06-13",
+      "is_paid": "false"
+    },
+    {
+      "company": "Ainyx",
+      "invoice_number": "26",
+      "invoice_date": "2024-12-14",
+      "amount": 318,
+      "due_date": "2024-08-16",
+      "is_paid": "true"
+    },
+    {
+      "company": "Dazzlesphere",
+      "invoice_number": "67",
+      "invoice_date": "2024-10-30",
+      "amount": 865,
+      "due_date": "2024-07-13",
+      "is_paid": "false"
+    },
+    {
+      "company": "Jaxspan",
+      "invoice_number": "20",
+      "invoice_date": "2024-02-08",
+      "amount": 520,
+      "due_date": "2024-06-14",
+      "is_paid": "false"
+    },
+    {
+      "company": "Ntags",
+      "invoice_number": "66",
+      "invoice_date": "2024-03-24",
+      "amount": 377,
+      "due_date": "2024-08-04",
+      "is_paid": "false"
+    },
+    {
+      "company": "Yoveo",
+      "invoice_number": "42",
+      "invoice_date": "2024-02-11",
+      "amount": 539,
+      "due_date": "2024-05-05",
+      "is_paid": "true"
+    },
+    {
+      "company": "Edgeify",
+      "invoice_number": "64",
+      "invoice_date": "2024-02-22",
+      "amount": 496,
+      "due_date": "2024-01-20",
+      "is_paid": "true"
+    },
+    {
+      "company": "Flashpoint",
+      "invoice_number": "19",
+      "invoice_date": "2024-04-30",
+      "amount": 761,
+      "due_date": "2024-08-22",
+      "is_paid": "false"
+    },
+    {
+      "company": "Tagtune",
+      "invoice_number": "96",
+      "invoice_date": "2024-10-17",
+      "amount": 564,
+      "due_date": "2024-12-21",
+      "is_paid": "true"
+    },
+    {
+      "company": "Gigazoom",
+      "invoice_number": "98",
+      "invoice_date": "2024-04-03",
+      "amount": 173,
+      "due_date": "2024-04-22",
+      "is_paid": "false"
+    },
+    {
+      "company": "Plambee",
+      "invoice_number": "15",
+      "invoice_date": "2024-06-15",
+      "amount": 231,
+      "due_date": "2024-02-28",
+      "is_paid": "true"
+    },
+    {
+      "company": "Jetpulse",
+      "invoice_number": "48",
+      "invoice_date": "2024-06-09",
+      "amount": 501,
+      "due_date": "2024-06-11",
+      "is_paid": "true"
+    },
+    {
+      "company": "Gabcube",
+      "invoice_number": "6",
+      "invoice_date": "2024-05-16",
+      "amount": 912,
+      "due_date": "2024-08-12",
+      "is_paid": "true"
+    },
+    {
+      "company": "Ozu",
+      "invoice_number": "74",
+      "invoice_date": "2024-02-07",
+      "amount": 361,
+      "due_date": "2024-11-28",
+      "is_paid": "false"
+    },
+    {
+      "company": "Myworks",
+      "invoice_number": "73",
+      "invoice_date": "2024-01-13",
+      "amount": 860,
+      "due_date": "2024-05-20",
+      "is_paid": "false"
+    },
+    {
+      "company": "Aivee",
+      "invoice_number": "26",
+      "invoice_date": "2024-05-03",
+      "amount": 826,
+      "due_date": "2024-03-09",
+      "is_paid": "false"
+    },
+    {
+      "company": "Livetube",
+      "invoice_number": "87",
+      "invoice_date": "2024-07-31",
+      "amount": 88,
+      "due_date": "2024-10-21",
+      "is_paid": "false"
+    },
+    {
+      "company": "Eayo",
+      "invoice_number": "16",
+      "invoice_date": "2024-12-16",
+      "amount": 223,
+      "due_date": "2024-07-25",
+      "is_paid": "true"
+    },
+    {
+      "company": "Ntag",
+      "invoice_number": "82",
+      "invoice_date": "2024-09-07",
+      "amount": 331,
+      "due_date": "2024-11-22",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yadel",
+      "invoice_number": "19",
+      "invoice_date": "2024-05-21",
+      "amount": 220,
+      "due_date": "2024-02-04",
+      "is_paid": "false"
+    },
+    {
+      "company": "Shufflester",
+      "invoice_number": "20",
+      "invoice_date": "2024-03-13",
+      "amount": 732,
+      "due_date": "2024-04-14",
+      "is_paid": "true"
+    },
+    {
+      "company": "Zoozzy",
+      "invoice_number": "8",
+      "invoice_date": "2024-10-17",
+      "amount": 572,
+      "due_date": "2024-05-01",
+      "is_paid": "false"
+    },
+    {
+      "company": "Devcast",
+      "invoice_number": "15",
+      "invoice_date": "2024-03-03",
+      "amount": 199,
+      "due_date": "2024-01-31",
+      "is_paid": "true"
+    },
+    {
+      "company": "Abatz",
+      "invoice_number": "87",
+      "invoice_date": "2024-09-16",
+      "amount": 596,
+      "due_date": "2024-10-07",
+      "is_paid": "true"
+    },
+    {
+      "company": "Zazio",
+      "invoice_number": "40",
+      "invoice_date": "2024-06-25",
+      "amount": 101,
+      "due_date": "2024-11-12",
+      "is_paid": "false"
+    }
+  ],
+  "outcome": [
+    {
+      "company": "Talane",
+      "invoice_number": "98",
+      "invoice_date": "2024-08-08",
+      "amount": 68,
+      "due_date": "2024-09-16",
+      "is_paid": "true"
+    },
+    {
+      "company": "Quimm",
+      "invoice_number": "30",
+      "invoice_date": "2024-10-24",
+      "amount": 63,
+      "due_date": "2024-03-09",
+      "is_paid": "true"
+    },
+    {
+      "company": "Edgepulse",
+      "invoice_number": "100",
+      "invoice_date": "2024-02-05",
+      "amount": 997,
+      "due_date": "2024-07-16",
+      "is_paid": "false"
+    },
+    {
+      "company": "Kazu",
+      "invoice_number": "7",
+      "invoice_date": "2024-11-03",
+      "amount": 888,
+      "due_date": "2024-01-14",
+      "is_paid": "true"
+    },
+    {
+      "company": "Cogibox",
+      "invoice_number": "67",
+      "invoice_date": "2024-10-04",
+      "amount": 166,
+      "due_date": "2024-05-04",
+      "is_paid": "false"
+    },
+    {
+      "company": "Divavu",
+      "invoice_number": "37",
+      "invoice_date": "2024-10-27",
+      "amount": 228,
+      "due_date": "2024-06-16",
+      "is_paid": "true"
+    },
+    {
+      "company": "Oyope",
+      "invoice_number": "48",
+      "invoice_date": "2024-08-05",
+      "amount": 361,
+      "due_date": "2024-05-15",
+      "is_paid": "false"
+    },
+    {
+      "company": "Ainyx",
+      "invoice_number": "85",
+      "invoice_date": "2024-08-04",
+      "amount": 652,
+      "due_date": "2024-07-27",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yodo",
+      "invoice_number": "76",
+      "invoice_date": "2024-03-06",
+      "amount": 633,
+      "due_date": "2024-07-30",
+      "is_paid": "true"
+    },
+    {
+      "company": "Gigabox",
+      "invoice_number": "49",
+      "invoice_date": "2024-11-06",
+      "amount": 417,
+      "due_date": "2024-09-18",
+      "is_paid": "false"
+    },
+    {
+      "company": "Jaxworks",
+      "invoice_number": "49",
+      "invoice_date": "2024-08-21",
+      "amount": 391,
+      "due_date": "2024-06-07",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yakidoo",
+      "invoice_number": "52",
+      "invoice_date": "2024-05-22",
+      "amount": 573,
+      "due_date": "2024-12-30",
+      "is_paid": "false"
+    },
+    {
+      "company": "Mybuzz",
+      "invoice_number": "87",
+      "invoice_date": "2024-02-20",
+      "amount": 470,
+      "due_date": "2024-12-03",
+      "is_paid": "false"
+    },
+    {
+      "company": "Vimbo",
+      "invoice_number": "8",
+      "invoice_date": "2024-01-11",
+      "amount": 766,
+      "due_date": "2024-04-27",
+      "is_paid": "true"
+    },
+    {
+      "company": "Jaxspan",
+      "invoice_number": "47",
+      "invoice_date": "2024-11-19",
+      "amount": 116,
+      "due_date": "2024-05-26",
+      "is_paid": "true"
+    },
+    {
+      "company": "Thoughtworks",
+      "invoice_number": "31",
+      "invoice_date": "2024-05-24",
+      "amount": 981,
+      "due_date": "2024-12-25",
+      "is_paid": "false"
+    },
+    {
+      "company": "Oyope",
+      "invoice_number": "68",
+      "invoice_date": "2024-02-03",
+      "amount": 491,
+      "due_date": "2024-01-22",
+      "is_paid": "false"
+    },
+    {
+      "company": "Eabox",
+      "invoice_number": "59",
+      "invoice_date": "2024-07-02",
+      "amount": 107,
+      "due_date": "2024-09-22",
+      "is_paid": "true"
+    },
+    {
+      "company": "Centidel",
+      "invoice_number": "26",
+      "invoice_date": "2024-02-26",
+      "amount": 644,
+      "due_date": "2024-07-01",
+      "is_paid": "true"
+    },
+    {
+      "company": "Tazzy",
+      "invoice_number": "81",
+      "invoice_date": "2024-12-21",
+      "amount": 815,
+      "due_date": "2024-08-20",
+      "is_paid": "true"
+    },
+    {
+      "company": "Twitterbeat",
+      "invoice_number": "49",
+      "invoice_date": "2024-11-25",
+      "amount": 380,
+      "due_date": "2024-12-26",
+      "is_paid": "true"
+    },
+    {
+      "company": "Flashspan",
+      "invoice_number": "5",
+      "invoice_date": "2024-01-11",
+      "amount": 496,
+      "due_date": "2024-07-26",
+      "is_paid": "false"
+    },
+    {
+      "company": "Wikizz",
+      "invoice_number": "65",
+      "invoice_date": "2024-08-09",
+      "amount": 901,
+      "due_date": "2024-02-01",
+      "is_paid": "true"
+    },
+    {
+      "company": "Gabcube",
+      "invoice_number": "60",
+      "invoice_date": "2024-02-01",
+      "amount": 431,
+      "due_date": "2024-10-03",
+      "is_paid": "false"
+    },
+    {
+      "company": "Gigashots",
+      "invoice_number": "99",
+      "invoice_date": "2024-12-07",
+      "amount": 325,
+      "due_date": "2024-06-16",
+      "is_paid": "false"
+    },
+    {
+      "company": "Yabox",
+      "invoice_number": "30",
+      "invoice_date": "2024-10-13",
+      "amount": 393,
+      "due_date": "2024-11-06",
+      "is_paid": "true"
+    },
+    {
+      "company": "Leexo",
+      "invoice_number": "48",
+      "invoice_date": "2024-08-20",
+      "amount": 156,
+      "due_date": "2024-01-29",
+      "is_paid": "true"
+    },
+    {
+      "company": "Riffpedia",
+      "invoice_number": "66",
+      "invoice_date": "2024-11-29",
+      "amount": 398,
+      "due_date": "2024-01-05",
+      "is_paid": "false"
+    },
+    {
+      "company": "Tagpad",
+      "invoice_number": "15",
+      "invoice_date": "2024-04-08",
+      "amount": 685,
+      "due_date": "2024-09-06",
+      "is_paid": "true"
+    },
+    {
+      "company": "Twimbo",
+      "invoice_number": "61",
+      "invoice_date": "2024-11-18",
+      "amount": 391,
+      "due_date": "2024-03-18",
+      "is_paid": "false"
+    },
+    {
+      "company": "Skyble",
+      "invoice_number": "27",
+      "invoice_date": "2024-12-17",
+      "amount": 277,
+      "due_date": "2024-12-15",
+      "is_paid": "false"
+    },
+    {
+      "company": "Realfire",
+      "invoice_number": "6",
+      "invoice_date": "2024-12-21",
+      "amount": 128,
+      "due_date": "2024-11-29",
+      "is_paid": "true"
+    },
+    {
+      "company": "Centidel",
+      "invoice_number": "73",
+      "invoice_date": "2024-12-20",
+      "amount": 260,
+      "due_date": "2024-08-01",
+      "is_paid": "false"
+    },
+    {
+      "company": "Viva",
+      "invoice_number": "35",
+      "invoice_date": "2024-10-25",
+      "amount": 228,
+      "due_date": "2024-05-23",
+      "is_paid": "false"
+    },
+    {
+      "company": "Jaxnation",
+      "invoice_number": "25",
+      "invoice_date": "2024-05-26",
+      "amount": 904,
+      "due_date": "2024-07-13",
+      "is_paid": "true"
+    },
+    {
+      "company": "Wordware",
+      "invoice_number": "54",
+      "invoice_date": "2024-01-01",
+      "amount": 809,
+      "due_date": "2024-01-12",
+      "is_paid": "false"
+    },
+    {
+      "company": "Pixoboo",
+      "invoice_number": "62",
+      "invoice_date": "2024-07-22",
+      "amount": 862,
+      "due_date": "2024-04-14",
+      "is_paid": "false"
+    },
+    {
+      "company": "Gigazoom",
+      "invoice_number": "2",
+      "invoice_date": "2024-08-24",
+      "amount": 916,
+      "due_date": "2024-02-04",
+      "is_paid": "false"
+    },
+    {
+      "company": "Oodoo",
+      "invoice_number": "85",
+      "invoice_date": "2024-08-20",
+      "amount": 772,
+      "due_date": "2024-06-27",
+      "is_paid": "true"
+    },
+    {
+      "company": "Gigaclub",
+      "invoice_number": "43",
+      "invoice_date": "2024-09-04",
+      "amount": 337,
+      "due_date": "2024-01-23",
+      "is_paid": "true"
+    },
+    {
+      "company": "Feedfish",
+      "invoice_number": "24",
+      "invoice_date": "2024-08-27",
+      "amount": 425,
+      "due_date": "2024-10-26",
+      "is_paid": "true"
+    },
+    {
+      "company": "Dynabox",
+      "invoice_number": "15",
+      "invoice_date": "2024-12-27",
+      "amount": 498,
+      "due_date": "2024-11-27",
+      "is_paid": "false"
+    },
+    {
+      "company": "Brainbox",
+      "invoice_number": "19",
+      "invoice_date": "2024-03-08",
+      "amount": 992,
+      "due_date": "2024-08-05",
+      "is_paid": "false"
+    },
+    {
+      "company": "Brainverse",
+      "invoice_number": "40",
+      "invoice_date": "2024-01-21",
+      "amount": 35,
+      "due_date": "2024-11-09",
+      "is_paid": "false"
+    },
+    {
+      "company": "Skimia",
+      "invoice_number": "12",
+      "invoice_date": "2024-07-27",
+      "amount": 401,
+      "due_date": "2024-03-07",
+      "is_paid": "false"
+    },
+    {
+      "company": "Viva",
+      "invoice_number": "77",
+      "invoice_date": "2024-03-18",
+      "amount": 821,
+      "due_date": "2024-10-03",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yakitri",
+      "invoice_number": "12",
+      "invoice_date": "2024-03-05",
+      "amount": 556,
+      "due_date": "2024-08-31",
+      "is_paid": "false"
+    },
+    {
+      "company": "Skyvu",
+      "invoice_number": "61",
+      "invoice_date": "2024-09-09",
+      "amount": 37,
+      "due_date": "2024-03-26",
+      "is_paid": "true"
+    },
+    {
+      "company": "Skivee",
+      "invoice_number": "80",
+      "invoice_date": "2024-05-02",
+      "amount": 156,
+      "due_date": "2024-01-29",
+      "is_paid": "true"
+    },
+    {
+      "company": "Skiptube",
+      "invoice_number": "46",
+      "invoice_date": "2024-03-01",
+      "amount": 506,
+      "due_date": "2024-02-20",
+      "is_paid": "false"
+    },
+    {
+      "company": "Skidoo",
+      "invoice_number": "33",
+      "invoice_date": "2024-04-03",
+      "amount": 103,
+      "due_date": "2024-06-25",
+      "is_paid": "false"
+    },
+    {
+      "company": "Demimbu",
+      "invoice_number": "74",
+      "invoice_date": "2024-02-29",
+      "amount": 853,
+      "due_date": "2024-06-19",
+      "is_paid": "false"
+    },
+    {
+      "company": "Meevee",
+      "invoice_number": "68",
+      "invoice_date": "2024-08-09",
+      "amount": 440,
+      "due_date": "2024-02-21",
+      "is_paid": "false"
+    },
+    {
+      "company": "Quinu",
+      "invoice_number": "52",
+      "invoice_date": "2024-12-16",
+      "amount": 662,
+      "due_date": "2024-02-29",
+      "is_paid": "true"
+    },
+    {
+      "company": "Riffpedia",
+      "invoice_number": "47",
+      "invoice_date": "2024-10-15",
+      "amount": 69,
+      "due_date": "2024-10-09",
+      "is_paid": "false"
+    },
+    {
+      "company": "Vidoo",
+      "invoice_number": "1",
+      "invoice_date": "2024-05-04",
+      "amount": 496,
+      "due_date": "2024-04-02",
+      "is_paid": "false"
+    },
+    {
+      "company": "Eazzy",
+      "invoice_number": "59",
+      "invoice_date": "2024-03-25",
+      "amount": 732,
+      "due_date": "2024-02-18",
+      "is_paid": "true"
+    },
+    {
+      "company": "Digitube",
+      "invoice_number": "83",
+      "invoice_date": "2024-10-21",
+      "amount": 129,
+      "due_date": "2024-01-29",
+      "is_paid": "true"
+    },
+    {
+      "company": "Topicstorm",
+      "invoice_number": "94",
+      "invoice_date": "2024-08-12",
+      "amount": 348,
+      "due_date": "2024-12-21",
+      "is_paid": "true"
+    },
+    {
+      "company": "LiveZ",
+      "invoice_number": "74",
+      "invoice_date": "2024-05-25",
+      "amount": 507,
+      "due_date": "2024-03-16",
+      "is_paid": "false"
+    },
+    {
+      "company": "Linkbridge",
+      "invoice_number": "24",
+      "invoice_date": "2024-08-04",
+      "amount": 138,
+      "due_date": "2024-01-26",
+      "is_paid": "false"
+    },
+    {
+      "company": "Wordpedia",
+      "invoice_number": "71",
+      "invoice_date": "2024-05-05",
+      "amount": 697,
+      "due_date": "2024-08-31",
+      "is_paid": "false"
+    },
+    {
+      "company": "Thoughtworks",
+      "invoice_number": "18",
+      "invoice_date": "2024-11-17",
+      "amount": 212,
+      "due_date": "2024-06-06",
+      "is_paid": "true"
+    },
+    {
+      "company": "Browsedrive",
+      "invoice_number": "17",
+      "invoice_date": "2024-04-18",
+      "amount": 835,
+      "due_date": "2024-10-24",
+      "is_paid": "false"
+    },
+    {
+      "company": "Nlounge",
+      "invoice_number": "15",
+      "invoice_date": "2024-04-18",
+      "amount": 425,
+      "due_date": "2024-10-28",
+      "is_paid": "true"
+    },
+    {
+      "company": "Chatterpoint",
+      "invoice_number": "53",
+      "invoice_date": "2024-10-06",
+      "amount": 233,
+      "due_date": "2024-11-18",
+      "is_paid": "false"
+    },
+    {
+      "company": "Browsebug",
+      "invoice_number": "36",
+      "invoice_date": "2024-02-26",
+      "amount": 996,
+      "due_date": "2024-09-20",
+      "is_paid": "true"
+    },
+    {
+      "company": "LiveZ",
+      "invoice_number": "78",
+      "invoice_date": "2024-05-13",
+      "amount": 178,
+      "due_date": "2024-11-15",
+      "is_paid": "false"
+    },
+    {
+      "company": "Fanoodle",
+      "invoice_number": "88",
+      "invoice_date": "2024-11-02",
+      "amount": 351,
+      "due_date": "2024-06-05",
+      "is_paid": "false"
+    },
+    {
+      "company": "Eire",
+      "invoice_number": "64",
+      "invoice_date": "2024-04-30",
+      "amount": 371,
+      "due_date": "2024-10-31",
+      "is_paid": "false"
+    },
+    {
+      "company": "Twitterwire",
+      "invoice_number": "18",
+      "invoice_date": "2024-03-09",
+      "amount": 89,
+      "due_date": "2024-04-06",
+      "is_paid": "true"
+    },
+    {
+      "company": "Plambee",
+      "invoice_number": "63",
+      "invoice_date": "2024-05-21",
+      "amount": 851,
+      "due_date": "2024-05-05",
+      "is_paid": "true"
+    },
+    {
+      "company": "Lazzy",
+      "invoice_number": "9",
+      "invoice_date": "2024-08-19",
+      "amount": 433,
+      "due_date": "2024-01-05",
+      "is_paid": "true"
+    },
+    {
+      "company": "Demimbu",
+      "invoice_number": "84",
+      "invoice_date": "2024-10-09",
+      "amount": 342,
+      "due_date": "2024-11-29",
+      "is_paid": "false"
+    },
+    {
+      "company": "Oyoyo",
+      "invoice_number": "35",
+      "invoice_date": "2024-05-25",
+      "amount": 690,
+      "due_date": "2024-10-16",
+      "is_paid": "false"
+    },
+    {
+      "company": "Gigashots",
+      "invoice_number": "14",
+      "invoice_date": "2024-07-09",
+      "amount": 181,
+      "due_date": "2024-07-01",
+      "is_paid": "true"
+    },
+    {
+      "company": "Yakidoo",
+      "invoice_number": "82",
+      "invoice_date": "2024-03-08",
+      "amount": 839,
+      "due_date": "2024-05-17",
+      "is_paid": "false"
+    },
+    {
+      "company": "Ntag",
+      "invoice_number": "68",
+      "invoice_date": "2024-05-04",
+      "amount": 261,
+      "due_date": "2024-07-29",
+      "is_paid": "true"
+    },
+    {
+      "company": "Mydeo",
+      "invoice_number": "39",
+      "invoice_date": "2024-11-17",
+      "amount": 240,
+      "due_date": "2024-04-26",
+      "is_paid": "true"
+    },
+    {
+      "company": "Dynabox",
+      "invoice_number": "26",
+      "invoice_date": "2024-08-15",
+      "amount": 865,
+      "due_date": "2024-07-17",
+      "is_paid": "true"
+    },
+    {
+      "company": "Skiba",
+      "invoice_number": "66",
+      "invoice_date": "2024-11-10",
+      "amount": 1,
+      "due_date": "2024-05-13",
+      "is_paid": "false"
+    },
+    {
+      "company": "Quimm",
+      "invoice_number": "57",
+      "invoice_date": "2024-09-07",
+      "amount": 67,
+      "due_date": "2024-01-02",
+      "is_paid": "false"
+    },
+    {
+      "company": "Twitterbridge",
+      "invoice_number": "75",
+      "invoice_date": "2024-07-11",
+      "amount": 686,
+      "due_date": "2024-03-08",
+      "is_paid": "false"
+    },
+    {
+      "company": "Bluezoom",
+      "invoice_number": "22",
+      "invoice_date": "2024-12-10",
+      "amount": 544,
+      "due_date": "2024-06-29",
+      "is_paid": "true"
+    },
+    {
+      "company": "Zoombeat",
+      "invoice_number": "8",
+      "invoice_date": "2024-08-25",
+      "amount": 415,
+      "due_date": "2024-12-19",
+      "is_paid": "true"
+    },
+    {
+      "company": "Riffpedia",
+      "invoice_number": "11",
+      "invoice_date": "2024-07-09",
+      "amount": 70,
+      "due_date": "2024-06-07",
+      "is_paid": "false"
+    },
+    {
+      "company": "LiveZ",
+      "invoice_number": "2",
+      "invoice_date": "2024-01-10",
+      "amount": 18,
+      "due_date": "2024-04-07",
+      "is_paid": "false"
+    },
+    {
+      "company": "Oloo",
+      "invoice_number": "97",
+      "invoice_date": "2024-07-27",
+      "amount": 91,
+      "due_date": "2024-07-09",
+      "is_paid": "true"
+    },
+    {
+      "company": "Babblestorm",
+      "invoice_number": "13",
+      "invoice_date": "2024-10-02",
+      "amount": 404,
+      "due_date": "2024-06-28",
+      "is_paid": "false"
+    },
+    {
+      "company": "Gabtune",
+      "invoice_number": "35",
+      "invoice_date": "2024-01-23",
+      "amount": 996,
+      "due_date": "2024-04-16",
+      "is_paid": "true"
+    },
+    {
+      "company": "Izio",
+      "invoice_number": "22",
+      "invoice_date": "2024-01-02",
+      "amount": 242,
+      "due_date": "2024-11-27",
+      "is_paid": "false"
+    },
+    {
+      "company": "Cogibox",
+      "invoice_number": "92",
+      "invoice_date": "2024-10-20",
+      "amount": 680,
+      "due_date": "2024-12-13",
+      "is_paid": "true"
+    },
+    {
+      "company": "Gigaclub",
+      "invoice_number": "2",
+      "invoice_date": "2024-01-18",
+      "amount": 330,
+      "due_date": "2024-08-20",
+      "is_paid": "true"
+    },
+    {
+      "company": "Thoughtbeat",
+      "invoice_number": "41",
+      "invoice_date": "2024-07-29",
+      "amount": 548,
+      "due_date": "2024-09-18",
+      "is_paid": "false"
+    },
+    {
+      "company": "Eayo",
+      "invoice_number": "2",
+      "invoice_date": "2024-05-25",
+      "amount": 42,
+      "due_date": "2024-07-24",
+      "is_paid": "false"
+    },
+    {
+      "company": "Oodoo",
+      "invoice_number": "62",
+      "invoice_date": "2024-06-19",
+      "amount": 801,
+      "due_date": "2024-02-23",
+      "is_paid": "true"
+    },
+    {
+      "company": "Oyoloo",
+      "invoice_number": "19",
+      "invoice_date": "2024-09-28",
+      "amount": 638,
+      "due_date": "2024-09-16",
+      "is_paid": "false"
+    },
+    {
+      "company": "Topicstorm",
+      "invoice_number": "87",
+      "invoice_date": "2024-11-13",
+      "amount": 996,
+      "due_date": "2024-10-13",
+      "is_paid": "false"
+    },
+    {
+      "company": "LiveZ",
+      "invoice_number": "82",
+      "invoice_date": "2024-02-24",
+      "amount": 768,
+      "due_date": "2024-05-16",
+      "is_paid": "false"
+    },
+    {
+      "company": "Yozio",
+      "invoice_number": "68",
+      "invoice_date": "2024-10-08",
+      "amount": 267,
+      "due_date": "2024-10-28",
+      "is_paid": "true"
+    }
+  ]
 }
